@@ -1,0 +1,4 @@
+dependencies {
+    compile "com.github.RedTriplane.Rana:rana-manager-api:$ranaAPILevel"
+
+}

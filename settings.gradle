@@ -1,0 +1,6 @@
+include 'rana-package-red'
+include 'rana-loader-red'
+include 'rana-asset-red'
+include 'rana-manager-red'
+//include 'rana-test'
+
