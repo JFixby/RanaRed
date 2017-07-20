@@ -1,4 +1,4 @@
 dependencies {
-    compile "com.github.RedTriplane.Rana:rana-asset-api:$ranaAPILevel"
+    //compile "com.github.RedTriplane.Rana:rana-api:$ranaAPILevel"
 
 }

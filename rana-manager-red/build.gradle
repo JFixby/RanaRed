@@ -1,7 +1,7 @@
 dependencies {
-    compile "com.github.RedTriplane.Rana:rana-manager-api:$ranaAPILevel"
-    compile "com.github.RedTriplane.Rana:rana-asset-api:$ranaAPILevel"
-    compile "com.github.RedTriplane.Rana:rana-package-api:$ranaAPILevel"
-    compile "com.github.RedTriplane.Rana:rana-loader-api:$ranaAPILevel"
+    //compile "com.github.RedTriplane.Rana:rana-manager-api:$ranaAPILevel"
+    //compile "com.github.RedTriplane.Rana:rana-asset-api:$ranaAPILevel"
+    //compile "com.github.RedTriplane.Rana:rana-package-api:$ranaAPILevel"
+    //compile "com.github.RedTriplane.Rana:rana-loader-api:$ranaAPILevel"
 
 }
